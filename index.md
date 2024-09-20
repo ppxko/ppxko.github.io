@@ -21,12 +21,22 @@
 
 ## 二、考研所用：
 
-1. <a href="https://pan.baidu.com/mbox/homepage?action=cloudmanager&errmsg=Auth+Login+Sucess&errno=0&gid=331846284438973175&ssnerror=0&&type=filefactory#share/type=session" target="_blank">1. 百度网盘会话列表</a>
-2. <a href="https://www.aliyundrive.com/sign/in" target="_blank">2. 阿里云网盘</a>
-3. <a href="https://zhuanlan.zhihu.com/p/303354568" target="_blank">3. 2023备考全程规划</a>
-4. <a href="https://zhuanlan.zhihu.com/p/432139052" target="_blank">4. 择校与8个必知网站</a>
-5. <a href="https://baike.baidu.com/item/%E5%AF%BC%E6%95%B0%E8%A1%A8/10889755" target="_blank">5. 导数表</a>
-6. <a href="https://dogwood.xdfsjj.com/pc/bookDetail.html?bookId=123719&idSign=fca27d" target="_blank">6. 22版恋练有词</a>
+1. [ip信息](https://ipinfo.io/)
+2. [asn查询](https://bgp.he.net/)
+3. [延迟检测](https://www.itdog.cn/tcping/)
+4. [dns记录](https://www.nslookup.io/)
+5. [ip欺诈值](https://ip.ping0.cc/)
+6. [encode](https://www.urlencoder.org/)
+7. [cidr计算](https://www.sioe.cn/xinqing/CIDR.php)
+8. [域名状态检查](https://lookup.icann.org/en/lookup)
+9. [cf访问检测](https://ip.sb/)
+10. [全面检测](https://ip.skk.moe/)
+11. [speedtest](https://www.speedtest.net/)
+12. [ip地图](https://ipdata.co/)
+13. [dns泄露测试](https://browserleaks.com/dns)
+14. [路由追踪](https://www.itdog.cn/traceroute/)
+15. [滥用检查](https://www.abuseipdb.com/)
+16. [ping](https://ping.pe/)
 
 ---
 
