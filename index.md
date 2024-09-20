@@ -29,16 +29,41 @@
 15. [滥用检查](https://www.abuseipdb.com/)
 16. [ping](https://ping.pe/)
 
+---
 
+## 三、工具：
 
+1. [uuid](https://www.uuidgenerator.net/)
+2. [哈希生成](https://www.atatus.com/tools/sha224-to-hash)
+3. [encode](https://www.urlencoder.org/)
+4. [2fa](tabler:auth-2fa)
+5. [自签名证书](https://bkssl.com/ssl/selfsign)
+6. [导航](https://wpw.us.kg/100fasterwithppxguard/base64/)
+[]()
 
 ---
 
+## 四、云服务器：
 ---
+1. [ucloud](https://www.ucloud.cn/)
+2. [阿里云](https://cn.aliyun.com/)
+3. [希沃斯](https://evoxt.com/)
 
 ---
 
-## 三、实用插件汇总（名称）
+## 四、域名：
+
+1. [namesilo](https://www.namesilo.com/)
+2. [us.kg](https://register.us.kg/)
+3. [dynv6](https://dynv6.com/)
+4. [阿里云](https://wanwang.aliyun.com/newdomain/new_user_activity)
+
+
+---
+---
+---
+
+## 六、实用插件汇总（名称）
 
 1. **Tampermonkey**——ID：dhdgffkkebhmkfjojejmpbldmpobfkfo
 2. **百度助手**(沉浸式网络体验，净化网络，去除各种广告)——ID：copeiejfefagfmjndfgbllokphlmalon
