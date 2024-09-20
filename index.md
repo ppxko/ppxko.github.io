@@ -10,7 +10,7 @@
 
 ---
 
-## 二、考研所用：
+## 二、ip测试：
 
 1. [ip信息](https://ipinfo.io/)
 2. [asn查询](https://bgp.he.net/)
