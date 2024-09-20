@@ -4,7 +4,7 @@
 
 ## 一、编程大全：
 
-1. <a href="https://github.com/" target="_blank">1. Github</a>
+1. [百度](baidu.com)
 2. <a href="https://codechina.csdn.net/mirrors" target="_blank">2. GitHub加速镜像（不全）mirrors · CODE CHINA</a>
 3. <a href="https://stackoverflow.com/" target="_blank">3. STACK OVERFLOW（程序员技术问答）</a>
 4. <a href="https://leetcode-cn.com/" target="_blank">4. LEETCODE(码不停题)</a>
