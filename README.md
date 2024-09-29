@@ -8,6 +8,7 @@
 - [youtube](https://youtube.com/)
 - [vercel](https://vercel.com/)
 - [netlify](https://www.netlify.com/)
+- [huawei](https://www.huaweicloud.com/)
 	
 **[⬆️ Back to Top](#收藏夹汇总)**
 
