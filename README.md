@@ -6,6 +6,8 @@
 - [github](https://github.com/)
 - [cloudflare](https://www.cloudflare.com/)
 - [youtube](https://youtube.com/)
+- [vercel](https://vercel.com/)
+- [netlify](https://www.netlify.com/)
 	
 **[⬆️ Back to Top](#收藏夹汇总)**
 
@@ -29,6 +31,9 @@
 - [路由追踪](https://www.itdog.cn/traceroute/)
 - [滥用检查](https://www.abuseipdb.com/)
 - [ping](https://ping.pe/)
+- [ip查域名](https://ipchaxun.com/)
+- [ip查域名](https://site.ip138.com/)
+- [ip查域名](https://dnsdblookup.com/)
 	
 **[⬆️ Back to Top](#收藏夹汇总)**
 
