@@ -35,6 +35,7 @@
 - [ip查域名](https://ipchaxun.com/)
 - [ip查域名](https://site.ip138.com/)
 - [ip查域名](https://dnsdblookup.com/)
+- [ip监控](https://ping0.cc/vpsmon/30day)
 	
 **[⬆️ Back to Top](#收藏夹汇总)**
 
@@ -58,6 +59,7 @@
 - [ucloud](https://www.ucloud.cn/)
 - [阿里云](https://cn.aliyun.com/)
 - [希沃斯](https://evoxt.com/)
+- [腾讯云](https://cloud.tencent.com/)
 
 **[⬆️ Back to Top](#收藏夹汇总)**
 
