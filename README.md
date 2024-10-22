@@ -102,6 +102,7 @@
 2. **CatalyzeX**(AI Code Finder, Alerts, Ask Questions about Papers)——ID：aikkeehnlfpamidigaffhfmgbkdeheil
 3. **沉浸式翻译**——ID：bpoadfkcbjbfhfodiogcnhhhpibjhbnh
 4. **Tampermonkey**——ID：dhdgffkkebhmkfjojejmpbldmpobfkfo
+5. **Grammarly**——ID：kbfnbcaeplbcioakkpcpgfkobkghlhen
 
 **[⬆️ Back to Top](#收藏夹汇总)**
 
