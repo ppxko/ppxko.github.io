@@ -47,7 +47,7 @@
 - [uuid](https://www.uuidgenerator.net/)
 - [哈希生成](https://www.atatus.com/tools/sha224-to-hash)
 - [encode](https://www.urlencoder.org/)
-- [2fa](tabler:auth-2fa)
+- [2fa](https://2fa.live/)
 - [自签名证书](https://bkssl.com/ssl/selfsign)
 - [导航](https://wpw.us.kg/100fasterwithppxguard/base64/)
 
