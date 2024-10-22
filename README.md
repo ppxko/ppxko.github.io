@@ -98,9 +98,9 @@
 
 ## 七、实用插件汇总（名称）
 
-1. **Tampermonkey**——ID：dhdgffkkebhmkfjojejmpbldmpobfkfo
-2. **百度助手**(沉浸式网络体验，净化网络，去除各种广告)——ID：copeiejfefagfmjndfgbllokphlmalon
-3. **超级复制**——ID：kpdflbfgnadefiffbkefbbnfkojfnlkn
+1. **supermemory**——ID：afpgkkipfdpeaflnpoaffkcankadgjfc
+2. **CatalyzeX**(AI Code Finder, Alerts, Ask Questions about Papers)——ID：aikkeehnlfpamidigaffhfmgbkdeheil
+3. **supermemory**——ID：kpdflbfgnadefiffbkefbbnfkojfnlkn
 4. **草料二维码**——ID：moombeodfomdpjnpocobemoiaemednkg
 5. **IDM Integration Module**——ID：ngpampappnmepgilojfohadhhmbhlaek
 6. **迅雷下载支持**——ID：ncennffkjdiamlpmcbajkmaiiiddgioo
