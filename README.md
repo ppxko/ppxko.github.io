@@ -100,14 +100,8 @@
 
 1. **supermemory**——ID：afpgkkipfdpeaflnpoaffkcankadgjfc
 2. **CatalyzeX**(AI Code Finder, Alerts, Ask Questions about Papers)——ID：aikkeehnlfpamidigaffhfmgbkdeheil
-3. **supermemory**——ID：kpdflbfgnadefiffbkefbbnfkojfnlkn
-4. **草料二维码**——ID：moombeodfomdpjnpocobemoiaemednkg
-5. **IDM Integration Module**——ID：ngpampappnmepgilojfohadhhmbhlaek
-6. **迅雷下载支持**——ID：ncennffkjdiamlpmcbajkmaiiiddgioo
-7. **Proxy SwitchyOmega**（管理和切换多个代理设置）——ID：padekgcemlokbadohgkifijomclgjgif
-8. **Night Eye**（任何网站上的黑暗模式）——ID：jpleiggmebgfjnjhljmjpghmpihckicb
-9. **万能B站视频下载-哔哩哔哩助手**——ID：logfjcdnlpmihogdjegekojedhflflnc
-10. **彩云小译** - 网页翻译插件——ID：abbgboelhkajgikdbjclaecchkneaoma
+3. **沉浸式翻译**——ID：bpoadfkcbjbfhfodiogcnhhhpibjhbnh
+4. **Tampermonkey**——ID：dhdgffkkebhmkfjojejmpbldmpobfkfo
 
 **[⬆️ Back to Top](#收藏夹汇总)**
 
