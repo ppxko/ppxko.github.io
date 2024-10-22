@@ -104,6 +104,7 @@
 3. **沉浸式翻译**——ID：bpoadfkcbjbfhfodiogcnhhhpibjhbnh
 4. **Tampermonkey**——ID：dhdgffkkebhmkfjojejmpbldmpobfkfo
 5. **Grammarly**——ID：kbfnbcaeplbcioakkpcpgfkobkghlhen
+6. **SimpleExtManager**——ID：kniehgiejgnnpgojkdhhjbgbllnfkfdk
 
 **[⬆️ Back to Top](#收藏夹汇总)**
 
